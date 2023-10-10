@@ -35,6 +35,8 @@ practice tensorflow
 
 # references
 
+[Tensorflow-Versions](https://www.tensorflow.org/versions)
+
 [Tensorflow Tutorials - 40h](https://www.tensorflow.org/tutorials)
 
 [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course - 37h](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
