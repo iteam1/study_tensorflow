@@ -1,5 +1,5 @@
 # study_tensorflow
-repository for practice tensorflow
+practice tensorflow
 
 # Menu
 
